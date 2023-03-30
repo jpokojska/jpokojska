@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpokojska
-- 👀 I’m interested in software testing.
-- 🌱 I’m currently learning Python and Selenium.
+- 👀 Software tester
+- 🌱 I’m currently learning Cypress.
 
 
 <!---
