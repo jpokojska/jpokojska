@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jpokojska
 - 👀 Software tester
-- 🌱 I’m currently learning Cypress.
 
 
 <!---
